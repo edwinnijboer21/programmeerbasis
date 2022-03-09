@@ -1,6 +1,6 @@
 <?php
 
-$tekst="Hello,World!\n";
+$tekst="HelloWorld!HalloWereld!\n";
 
 echo $tekst;
 echo $tekst;
