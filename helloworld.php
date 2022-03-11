@@ -1,6 +1,6 @@
 <?php
 
-$teller=1;
+$teller=2;
 $maximum=10;
 $tekst="Hello, World!\n";
 
